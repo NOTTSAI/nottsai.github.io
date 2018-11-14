@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://notts.ai/contact/</loc>
+    <lastmod>2018-11-12T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notts.ai/blog/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notts.ai/service/</loc>
+    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notts.ai/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notts.ai/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notts.ai/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
