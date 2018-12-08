@@ -11,5 +11,17 @@
 	<atom:link href="https://notts.ai/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>DEC 2018 Meetup Summary</title>
+      <link>https://notts.ai/blog/nottsai-december4-2018-summary/</link>
+      <pubDate>Tue, 04 Dec 2018 08:30:00 +0000</pubDate>
+      
+      <guid>https://notts.ai/blog/nottsai-december4-2018-summary/</guid>
+      <description>Finally, the summary of our catchup
+For those who have missed the last meet-up, the slides are here.
+ Continuing the spirit of our previous meetup, there were three potential projects identified and discussed:
+  Decentralised AI Practising a CNN implemenation on a cleansed Image Datasets (A Kaggle competition) Exploring Nottingham&amp;rsquo;s Open Datasets   Agreeing to the fact that Decentralised AI is a challenge that needs more focus and datasets, members were equally inclined in taking up both the other projects to &amp;lsquo;Practice what they&amp;rsquo;ve already learnt&amp;rsquo;/&amp;lsquo;Apply new techniques&amp;rsquo;/&amp;lsquo;Learn new aspects&amp;rsquo;.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://notts.ai/blog/nottsai-december4-2018-summary/</loc>
+    <lastmod>2018-12-04T08:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://notts.ai/contact/</loc>
     <lastmod>2018-11-12T17:09:20+06:00</lastmod>
   </url>
@@ -18,17 +23,43 @@
   </url>
   
   <url>
+    <loc>https://notts.ai/tags/ai/</loc>
+    <lastmod>2018-12-04T08:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://notts.ai/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://notts.ai/tags/meetup/</loc>
+    <lastmod>2018-12-04T08:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notts.ai/tags/nottingham/</loc>
+    <lastmod>2018-12-04T08:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://notts.ai/</loc>
+    <lastmod>2018-12-04T08:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notts.ai/tags/projects/</loc>
+    <lastmod>2018-12-04T08:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://notts.ai/tags/</loc>
+    <lastmod>2018-12-04T08:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
